@@ -1,0 +1,11 @@
+/node_modules
+
+/build
+
+/.idea
+.idea
+.idea/
+
+*.env
+
+/src/contstants.ts
